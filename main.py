@@ -9,7 +9,7 @@ print(10 / 2)
 # Add a print statement that uses multiplication *
 print(5 * 2)
 # Create a variable called `length` and assign a value to it
-length = 10
+length = 15
 # Create a variable called    `width` and assign a value to it
 width = 15
 # Create a variable called `area` and assign to it the multiplication of `length` and `width`
